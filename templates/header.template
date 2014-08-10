@@ -1,0 +1,26 @@
+<body>
+<div id="container"> 
+    <div id="header"> 
+        <a href="[[page:home]]" id="logo" title="Home">Eastern Washington University</a><h1>Student Activities Involvement &amp; Leadership</h1>
+    </div> 
+
+    <div id="navigation"> 
+        <h3>Information</h3>
+        <ul> 
+            <li><a href="[[page:home]]">Home</a></li> 
+            <li><a href="[[page:News]]">News</a></li> 
+            <li><a href="[[page:About]]">About</a></li>       
+            <li><a href="[[page:Calendar]]">Calendar</a></li>     
+            <li><a href="[[page:Pictures]]">Pictures</a></li> 
+        </ul>
+
+        <h3>Resources</h3>
+        <ul> 
+            <li><a href="[[page:Events]]">Events</a></li> 
+            <li><a href="[[page:Forms]]">Forms</a></li> 
+            <li><a href="[[page:Files]]">Files</a></li> 
+            <li><a href="https://orgsync.com/login/eastern-washington-university">Login to OrgSync</a></li>
+        </ul>
+    </div> 
+
+    <div id="content"><div id="leftside">
